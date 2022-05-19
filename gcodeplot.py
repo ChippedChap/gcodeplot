@@ -767,7 +767,7 @@ if __name__ == '__main__':
     align = [ALIGN_NONE, ALIGN_NONE]
     plotter = Plotter()
     hpglOut = False
-    strokeAll = False
+    strokeAll = True
     extractColor = None
     gcodePause = "@pause"
     optimizationTime = 30
